@@ -3,8 +3,7 @@ Hello! My name is Reagan Pawlyszyn and I am an aspiring game designer and engine
 
 # [Whisk-d](https://github.com/ReaganPawlyszyn1/Whisk-d)
 
-![AppIcon](https://user-images.githubusercontent.com/98762157/161791681-ce99fc8d-5f04-487f-ad65-d48f47ab8fa8.png)
-
+![AppIcon](https://user-images.githubusercontent.com/98762157/161795662-f5df446b-20a9-42ff-93c6-353b16a04a84.png)
 
 Whisk-d is a single player ‘whack a mole’ simulator that follows the story of a cat named Whisk. Whisk lives in an abandoned shed and embarks on a grand adventure in order to find its family! Throughout the game, Whisk must find and tap on many mice hidden throughout many levels, but don’t hit the rats, who bite! Each mouse caught produces ‘chz-btx’, which is a form of currency that allows for Whisk to upgrade kitty accessories, unlock feline friends, and progress through the story! While working on this game, I was reminded of Studio Ghibli and their creation of animated animals. This has been a huge project, and I am still working on the basic graphics. When I become more familiar with Swift and the programming languages I need, I hope to get this app up and running!
 
@@ -35,6 +34,7 @@ Danny Xu’s Cash Register App is a functional mobile app that allows for cashie
 
 #Bubble Word
 
-![w (1)](https://user-images.githubusercontent.com/98762157/161795280-3fe83c1d-64fc-4ed6-815c-8d2a367b1000.png)
+![w (1)](https://user-images.githubusercontent.com/98762157/161795791-3e5c84e7-1ded-48c9-a597-b61dc0efa8a3.png)
+
 
 Jacob Swanson, Evan, and Eric’s app is a bubble-like shooter puzzle game where the player creates words by shooting at letters from a canon. They requested an icon for their app, and as a word puzzle lover myself I was happy to oblige! The group requested that the icon was a more simple design, so I thought of taking a more literal approach to describe the game. This app reminded me a bit of Mahjong, so I thought of the letters as tiles being shot at. I really liked working on this icon and I’m super pleased with how it turned out!
