@@ -32,7 +32,7 @@ Cole Nelson’s app required multiple spaceships of different colors and sizes, 
 
 Danny Xu’s Cash Register App is a functional mobile app that allows for cashiers to count the cash bills in their register after a ship instead of logging it manually, which could increase the amount of mistakes made. Danny asked for an app icon in order to submit to the app store for testing. While working on another project, I became familiar with pixelated art, and tuned up a picture of a register to add a calmer tone to the functional app. 
 
-#Bubble Word
+# Bubble Word
 
 ![w (1)](https://user-images.githubusercontent.com/98762157/161795791-3e5c84e7-1ded-48c9-a597-b61dc0efa8a3.png)
 
