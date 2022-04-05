@@ -21,7 +21,7 @@ Jacob Swanson’s Turret Shot game was one of the first graphic projects that I 
 
 # Incoming
 
-![Screen Shot 2022-03-04 at 12 31 06 PM](https://user-images.githubusercontent.com/98762157/161795971-b2125aa2-e0ad-47eb-b71e-0cdfc512a9aa.png)
+![Screen Shot 2022-03-04 at 12 31 06 PM](https://user-images.githubusercontent.com/98762157/161796863-05ae8bfb-9cca-4fc7-bdc7-ad78afada72b.png)
 
 Cole Nelson’s app required multiple spaceships of different colors and sizes, each of which would be unlocked as the player progresses throughout the game. I settled on a more pixelated design for the ships, as I wanted to make each spaceship unique and original! I was inspired by different types of bugs, and I had a really hard time figuring out color pallets for each ship. The trickiest part of this project was working on the details of each ship, especially the highlights. Every ship was a mini success, and I am so happy with how they turned out! 
 ### [Incoming Graphics](https://github.com/ReaganPawlyszyn1/IncomingGraphics/blob/main/README.md)
