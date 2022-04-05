@@ -25,9 +25,16 @@ Jacob Swanson’s Turret Shot game was one of the first graphic projects that I 
 ![Screen Shot 2022-03-04 at 12 31 06 PM](https://user-images.githubusercontent.com/98762157/161793276-f4f625fb-390c-47d5-bcdb-f9117d9f2222.png)
 
 Cole Nelson’s app required multiple spaceships of different colors and sizes, each of which would be unlocked as the player progresses throughout the game. I settled on a more pixelated design for the ships, as I wanted to make each spaceship unique and original! I was inspired by different types of bugs, and I had a really hard time figuring out color pallets for each ship. The trickiest part of this project was working on the details of each ship, especially the highlights. Every ship was a mini success, and I am so happy with how they turned out! 
-## [Incoming Graphics](https://github.com/ReaganPawlyszyn1/IncomingGraphics/blob/main/README.md)
+### [Incoming Graphics](https://github.com/ReaganPawlyszyn1/IncomingGraphics/blob/main/README.md)
 
 # [Cash Register App](https://github.com/RohitP123/Cash-Register-App)
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/98762157/161793899-5c1ca757-d650-4a40-8b43-18b733888020.png)
 
+Danny Xu’s Cash Register App is a functional mobile app that allows for cashiers to count the cash bills in their register after a ship instead of logging it manually, which could increase the amount of mistakes made. Danny asked for an app icon in order to submit to the app store for testing. While working on another project, I became familiar with pixelated art, and tuned up a picture of a register to add a calmer tone to the functional app. 
+
+#Bubble Word
+
+![w (1)](https://user-images.githubusercontent.com/98762157/161795280-3fe83c1d-64fc-4ed6-815c-8d2a367b1000.png)
+
+Jacob Swanson, Evan, and Eric’s app is a bubble-like shooter puzzle game where the player creates words by shooting at letters from a canon. They requested an icon for their app, and as a word puzzle lover myself I was happy to oblige! The group requested that the icon was a more simple design, so I thought of taking a more literal approach to describe the game. This app reminded me a bit of Mahjong, so I thought of the letters as tiles being shot at. I really liked working on this icon and I’m super pleased with how it turned out!
