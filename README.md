@@ -1,7 +1,7 @@
 # Personal Portfolio
 Hello! My name is Reagan Pawlyszyn and I am an aspiring game designer and engineer. This is a personal collection of past and present projects that I have been working on throughout the course of IOS Mobile App Development at Eden Prairie Highschool. I found that my skills as a social media manager for the Eden Prairie Drama Department coexisted with the more artistic side of app development, so I spent my time designing icons, creating graphics, and improving user experience.
 
-# Whisk-d
+# [Whisk-d](https://github.com/ReaganPawlyszyn1/Whisk-d)
 
 ![AppIcon](https://user-images.githubusercontent.com/98762157/161789088-02ca427b-c0cc-4e49-9a42-ae8c4f14019e.png)
 
