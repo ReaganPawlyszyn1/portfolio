@@ -9,13 +9,13 @@ Whisk-d is a single player ‘whack a mole’ simulator that follows the story o
 
 # [Sky Skirmish](https://github.com/WillPeyer/SkySkirmish)
 
-![1](https://user-images.githubusercontent.com/98762157/161790595-6f358285-5b64-4e02-8989-a026e250f860.png)
+![1 copy](https://user-images.githubusercontent.com/98762157/161796275-2a16c99d-094e-4ec1-8749-d6612a7f0c64.png)
 
 Will Peyer and Noah Rubin’s Sky Skirmish is a mobile 2D designed fighter jet game. The game can be described as a ‘bullet-hell’, where the jet’s task is to shoot asteroids, enemy jets, and satellites. Will reached out to me and asked for an app icon for the app store. My creative process was focused on making sure the player would look at the photo and immediately think of a fighter-jet game. I decided on taking the image from an enemy ship’s viewpoint, which allowed for a more realistic setting for the game. Using Canva and sketch, I was able to capture what looks like a deadly blow from one ship to another in a clear sky. I enjoyed the creative freedom Will gave me for this project, and I love the atmosphere it gives off.
 
 # [Turret Shot](https://github.com/EPHS-iOS/Turret-Shot)
 
-![Untitled design (1) (1)](https://user-images.githubusercontent.com/98762157/161791470-ab508f71-c548-4515-943f-f06f07399bcc.png)
+![Untitled design (1) (1)](https://user-images.githubusercontent.com/98762157/161796642-78395741-447a-4e02-ae29-015c7ba2874b.png)
 
 Jacob Swanson’s Turret Shot game was one of the first graphic projects that I made. Jacob requested creating a play button and two sliders to show the player and opposing players’ controls. While designing these, I researched actual tanks and looked at control panels for militant weapons as a basis. I decided on a more simple design in order to keep the attention on the strategizing aspect of the game. Jake wanted a simple icon to fit the overall design of the game, so I tried to emphasize the contrasting elements of the player and opposing player’s tanks. Overall, I really enjoyed how these turned out! 
 
@@ -28,13 +28,12 @@ Cole Nelson’s app required multiple spaceships of different colors and sizes, 
 
 # [Cash Register App](https://github.com/RohitP123/Cash-Register-App)
 
-![Untitled design (2)](https://user-images.githubusercontent.com/98762157/161793899-5c1ca757-d650-4a40-8b43-18b733888020.png)
+![Untitled design (2) copy](https://user-images.githubusercontent.com/98762157/161796425-5a728759-3441-4a53-ae8d-b85423c5e653.png)
 
 Danny Xu’s Cash Register App is a functional mobile app that allows for cashiers to count the cash bills in their register after a ship instead of logging it manually, which could increase the amount of mistakes made. Danny asked for an app icon in order to submit to the app store for testing. While working on another project, I became familiar with pixelated art, and tuned up a picture of a register to add a calmer tone to the functional app. 
 
 #Bubble Word
 
 ![w (1)](https://user-images.githubusercontent.com/98762157/161795791-3e5c84e7-1ded-48c9-a597-b61dc0efa8a3.png)
-
 
 Jacob Swanson, Evan, and Eric’s app is a bubble-like shooter puzzle game where the player creates words by shooting at letters from a canon. They requested an icon for their app, and as a word puzzle lover myself I was happy to oblige! The group requested that the icon was a more simple design, so I thought of taking a more literal approach to describe the game. This app reminded me a bit of Mahjong, so I thought of the letters as tiles being shot at. I really liked working on this icon and I’m super pleased with how it turned out!
