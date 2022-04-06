@@ -1,5 +1,5 @@
 # Personal Portfolio
-Hello! My name is Reagan Pawlyszyn and I am an aspiring game designer and engineer. This is a personal collection of past and present projects that I have been working on throughout the course of IOS Mobile App Development at Eden Prairie Highschool. I found that my skills as a social media manager for the Eden Prairie Drama Department coexisted with the more artistic side of app development, so I spent my time designing icons, creating graphics, and improving user experience.
+Hello! My name is Reagan Pawlyszyn and I am an aspiring game designer and computer science major. This is a personal collection of past and present projects that I have been working on throughout the course of IOS Mobile App Development at Eden Prairie Highschool. I found that my skills as a social media manager for the Eden Prairie Drama Department coexisted with the more artistic side of app development, so I spent my time designing icons, creating graphics, and improving user experience.
 
 # [Whisk-d](https://github.com/ReaganPawlyszyn1/Whisk-d)
 
@@ -30,7 +30,7 @@ Cole Nelson’s app required multiple spaceships of different colors and sizes, 
 
 ![Untitled design (2) copy](https://user-images.githubusercontent.com/98762157/161796425-5a728759-3441-4a53-ae8d-b85423c5e653.png)
 
-Danny Xu’s Cash Register App is a functional mobile app that allows for cashiers to count the cash bills in their register after a ship instead of logging it manually, which could increase the amount of mistakes made. Danny asked for an app icon in order to submit to the app store for testing. While working on another project, I became familiar with pixelated art, and tuned up a picture of a register to add a calmer tone to the functional app. 
+Danny Xu’s Cash Register App is a functional mobile app that allows for cashiers to count the cash bills in their register after a shift instead of logging it manually, which could increase the amount of mistakes made. Danny asked for an app icon in order to submit to the app store for testing. While working on another project, I became familiar with pixelated art, and tuned up a picture of a register to add a calmer tone to the functional app. 
 
 # [Bubble Words](https://github.com/90306561/BubbleWords)
 
