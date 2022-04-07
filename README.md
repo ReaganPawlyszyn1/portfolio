@@ -19,7 +19,7 @@ Will Peyer and Noah Rubin’s Sky Skirmish is a mobile 2D designed fighter jet g
 
 Jacob Swanson’s Turret Shot game was one of the first graphic projects that I made. Jacob requested creating a play button and two sliders to show the player and opposing players’ controls. While designing these, I researched actual tanks and looked at control panels for militant weapons as a basis. I decided on a more simple design in order to keep the attention on the strategizing aspect of the game. Jake wanted a simple icon to fit the overall design of the game, so I tried to emphasize the contrasting elements of the player and opposing player’s tanks. Overall, I really enjoyed how these turned out! 
 
-# Incoming
+# [Incoming](https://github.com/colenelson33/Incoming)
 
 ![Screen Shot 2022-03-04 at 12 31 06 PM](https://user-images.githubusercontent.com/98762157/161796863-05ae8bfb-9cca-4fc7-bdc7-ad78afada72b.png)
 
